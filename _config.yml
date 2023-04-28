@@ -1,6 +1,6 @@
-title: TEst title
+title: Minimal theme
 logo: /assets/img/logo.png
-description: not support Chinese?
+description: Minimal is a theme for GitHub Pages.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
