@@ -3,6 +3,10 @@
   font-weight: 400;
   font-style: normal;
   src: url('../fonts/Noto_Serif_SC/NotoSerifSC-SemiBold.otf');
+  src: url('../fonts/Noto_Serif_SC/NotoSerifSC-SemiBold.otf?#iefix') format('embedded-opentype'),
+       local('Noto Serif'),
+       local('NotoSerifSC-SemiBold'),
+       url('../fonts/Noto_Serif_SC/NotoSerifSC-SemiBold.otf') format('otf');
 }
 
 @font-face {
